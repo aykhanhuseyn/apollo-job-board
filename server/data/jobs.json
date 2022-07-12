@@ -1,0 +1,62 @@
+[
+  {
+    "id": "soP9m8MdKeQX_ZXZOCSaL",
+    "companyId": "pVbRRBQtMVw6lUAkj1k43",
+    "title": "UI designer",
+    "description": "senior ux/ui designer with $4K salary"
+  },
+  {
+    "id": "GR7vTA_btqTnLtXcEDX8C",
+    "companyId": "pVbRRBQtMVw6lUAkj1k43",
+    "title": "Backend Developer",
+    "description": "We are looking for a Backend Developer familiar with Node.js and Express."
+  },
+  {
+    "id": "yX71WsWqBRAFuMAIDj4W0",
+    "companyId": "wvdB54Gqbdp_NZTXK9Tue",
+    "title": "Full-Stack Developer",
+    "description": "We are looking for a Full-Stack Developer familiar with Node.js, Express, and React."
+  },
+  {
+    "id": "5d8RV3_ZLd_Uj_R8TXaGs",
+    "title": "UX/UI designer",
+    "companyId": "pVbRRBQtMVw6lUAkj1k43",
+    "description": "middle ux ui designer with $2000 salary"
+  },
+  {
+    "id": "b1-fY1oUk1JKP3ALGkzlE",
+    "title": "UI designer",
+    "companyId": "pVbRRBQtMVw6lUAkj1k43",
+    "description": "junior ux ui designer with $1000 salary"
+  },
+  {
+    "id": "-vSmCgqD29PjMOghzlB2j",
+    "title": "Business Analitic",
+    "companyId": "pVbRRBQtMVw6lUAkj1k43",
+    "description": "Come and analyse out add"
+  },
+  {
+    "id": "xXyiYEEaYONCZeLRi_MHt",
+    "title": "QA Tester",
+    "description": "We need testers",
+    "companyId": "wvdB54Gqbdp_NZTXK9Tue"
+  },
+  {
+    "id": "pDpW3zzXsUrHvYHz7dRYW",
+    "title": "System administrator",
+    "description": "we need someone to create user for our employees",
+    "companyId": "wvdB54Gqbdp_NZTXK9Tue"
+  },
+  {
+    "id": "BKJTIeQKrb9JCiCLDoc0L",
+    "title": "UI designer",
+    "description": "senior ux/ui designer with $4K salary",
+    "companyId": "wvdB54Gqbdp_NZTXK9Tue"
+  },
+  {
+    "id": "QRba0KlSFHx5j-V4h_3qj",
+    "title": "Font end developer",
+    "description": "We want to develop dozen of fonts",
+    "companyId": "pVbRRBQtMVw6lUAkj1k43"
+  }
+]
